@@ -1,0 +1,122 @@
+#main
+{
+margin: 0 auto;
+   width: 912px;
+border:1px solid black;
+background: #9E9999  ;
+
+}
+
+
+
+  #header
+{
+  width: 912px;
+ height: 130px;
+border:1px solid black;
+}
+ #nav
+{
+  width: 912px;
+ height: 60px;
+border:1px solid black;
+}
+
+
+#img
+{
+float:left;
+  width: 200px;
+}
+
+#cointainer
+{
+width: 912px;
+height: 400px;
+border:1px solid black;
+}
+
+
+#box1
+{
+width: 200px;
+height: 400px;
+float:left;
+border:1px solid black;
+
+}
+
+#box2
+{
+ width: 505px;
+ height: 400px;
+border:1px solid black;
+float:left;
+
+}
+
+
+#box22
+{
+ width: 705px;
+ height: 400px;
+border:1px solid black;
+float:left;
+
+}
+
+
+#box3
+{
+   width: 200px;
+height: 400px;
+border:1px solid #3b1804;
+float:left;
+
+}
+
+.product
+{
+    height: 200px;
+    width: 167px;
+    float: left;
+    margin-left: 1px;
+}
+.product1
+{
+    height: 200px;
+    width: 167px;
+    float: left;
+}
+a, u {
+    text-decoration: none;
+color: #ffffff;
+}
+a:link {
+	color: #ffffff;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #3b1804;
+cursor:pointer;
+	}
+
+
+.ctab
+{
+    height: 64px;
+    width: 200px;
+    border:1px  solid #958D69;
+    text-align: center;
+    color: #ffffff;
+}
+.ctab1
+{
+    height: 64px;
+    width: 180px;
+    float: left;
+    text-align: center;
+    color: #ffffff;
+}
+
